@@ -3,7 +3,6 @@ title: ""
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In this paper, we analyse job search behaviour of employed -and unemployed jobseekers aged 55+'
-date: 
 venue: 'Work, Agind and Retirement'
 paperurl: 'https://academic.oup.com/workar/advance-article-abstract/doi/10.1093/workar/waad003/7111436?redirectedFrom=fulltext&login=false'
 citation: 'Guillemyn,I.,& Horemans, J. (2023). &quot;Age-related differences in job search behaviour: Do older jobseekers need a larger social network?.&quot; <i>Work, Aging and Retirement</i>.Issue forthcoming.'
