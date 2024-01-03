@@ -1,7 +1,7 @@
 ---
 title: "Age-related differences in job search behaviour: Do older jobseekers need a larger social network?"
 collection: publications
-permalink: /publications/2009-10-01-paper-title-number-1
+permalink: /publications/WAR
 excerpt: 'In this paper, we analyse job search behaviour of employed -and unemployed jobseekers aged 55+'
 venue: 'Work, Aging and Retirement'
 date: 2023
